@@ -6,4 +6,5 @@ public class Cotxe extends Vehicle {
     public void circula(){
         System.out.println("Circula amb 4 rodes");
     }
+
 }

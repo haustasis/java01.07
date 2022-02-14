@@ -7,4 +7,5 @@ public class Bici extends Vehicle {
         System.out.println("Circula amb 2 rodes");
     }
 
+
 }

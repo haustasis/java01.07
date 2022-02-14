@@ -6,4 +6,5 @@ public class Tricicle extends Vehicle {
     public void circula(){
         System.out.println("Circula amb 3 rodes");
     }
+
 }
