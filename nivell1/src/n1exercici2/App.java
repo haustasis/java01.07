@@ -5,4 +5,8 @@ Invoqui des d'una classe externa els mètodes deprecados, suprimint mitjançant 
 els warnings per ser deprecada la seva utilització.
  */
 public class App {
+
+    public static void main(String[] args) {
+
+    }
 }
